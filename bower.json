@@ -1,0 +1,17 @@
+{
+    "name": "nanumgothiccoding-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Sandoll Communication"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/nanumgothiccoding-bower.git"
+    },
+    "description": "Nanum Gothic Coding font",
+    "keywords": [
+        "font",
+        "HANDWRITING"
+    ]
+}
